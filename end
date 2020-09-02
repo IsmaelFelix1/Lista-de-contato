@@ -1,0 +1,47 @@
+[33mcommit 7a1253f7af2cbb4fee37eb1ceda58ea1be6f9ca3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Ismael Felix <ismael.duarte017@gmail.com>
+Date:   Tue Sep 1 20:32:10 2020 -0300
+
+    Implementação da validação do forms
+
+[33mcommit 4f6bc7b6319689c0445d27114c031789d7df6400[m
+Author: Ismael Felix <ismael.duarte017@gmail.com>
+Date:   Sun Aug 30 16:47:41 2020 -0300
+
+    criando model User
+
+[33mcommit 14fd12e391a95dcf543fc816e0aa8f9b5d4a862e[m
+Author: Ismael Felix <ismael.duarte017@gmail.com>
+Date:   Sun Aug 30 16:30:05 2020 -0300
+
+    criando modal contact
+
+[33mcommit 4bfd7f72365e0cedaeffa2281a38100ba4799858[m
+Author: Ismael Felix <ismael.duarte017@gmail.com>
+Date:   Sun Aug 30 16:10:17 2020 -0300
+
+    criando pagina sobre e contato
+
+[33mcommit 2254c2a9d9fe587443131e8838782dad93c981cf[m
+Author: Ismael Felix <ismael.duarte017@gmail.com>
+Date:   Sun Aug 30 16:08:22 2020 -0300
+
+    footer
+
+[33mcommit c3301a702363578228339ee4d78726b4ed46c9ea[m
+Author: Ismael Felix <ismael.duarte017@gmail.com>
+Date:   Sun Aug 30 11:19:21 2020 -0300
+
+    Integração com o Bootstrap
+
+[33mcommit be283b0c6c31586ab7f62f64cbe17343eb3d2eef[m
+Author: Ismael Felix <ismael.duarte017@gmail.com>
+Date:   Sun Aug 30 10:42:44 2020 -0300
+
+    hello world
+
+[33mcommit 5f636e99ffab8abf118ef518e253f5b918de34ff[m
+Author: Ismael Felix <ismael.duarte017@gmail.com>
+Date:   Sun Aug 30 09:59:51 2020 -0300
+
+    projeto criado
